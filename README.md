@@ -3,4 +3,4 @@ Hello everyone , I have been selected as a Machine Learning Intern at <b><a href
 <br><br>Here's the link for you to enroll as well<br>
 <a href="https://feynnlabs.com/internships/"> <img src="https://feynnlabs.com/wp-content/uploads/2021/04/cropped-logo_coloured.jpg" width="400" height="200"> </a>
 <br>Project List :
-<li>AI Product/Service Prototyping: <br>
+<li>AI Product/Service Prototyping <br>
